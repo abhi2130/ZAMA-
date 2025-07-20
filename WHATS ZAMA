@@ -2,3 +2,4 @@ What's Zama Confidential Blockchain Protocol?(Zama Protocol)
 
 ➙The Zama Protocol is a cross-chain privacy layer that enables confidential smart contracts on any existing blockchain(L1 or L2).
 ➙It is not a new standalone chain,but an overlay“confidentiality layer"that works atop popular networks like Ethereum or Solana.
+➙It uses Fully Homomorphic Encryption(FHE) to perform computations directly on encrypted data,ensuring complete data privacy inputs,outputs and state remain encrypted throughout execution.
